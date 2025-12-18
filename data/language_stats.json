@@ -1,0 +1,50 @@
+{
+  "english": {
+    "sentences": 582,
+    "avg_length": 69.13917525773196,
+    "base_sentences": 45,
+    "augmented": 537
+  },
+  "spanish": {
+    "sentences": 542,
+    "avg_length": 76.76752767527675,
+    "base_sentences": 45,
+    "augmented": 497
+  },
+  "french": {
+    "sentences": 543,
+    "avg_length": 83.01104972375691,
+    "base_sentences": 45,
+    "augmented": 498
+  },
+  "german": {
+    "sentences": 583,
+    "avg_length": 78.79073756432247,
+    "base_sentences": 45,
+    "augmented": 538
+  },
+  "italian": {
+    "sentences": 540,
+    "avg_length": 76.9574074074074,
+    "base_sentences": 45,
+    "augmented": 495
+  },
+  "portuguese": {
+    "sentences": 542,
+    "avg_length": 73.79151291512915,
+    "base_sentences": 45,
+    "augmented": 497
+  },
+  "dutch": {
+    "sentences": 540,
+    "avg_length": 75.77037037037037,
+    "base_sentences": 45,
+    "augmented": 495
+  },
+  "russian": {
+    "sentences": 541,
+    "avg_length": 73.68391866913124,
+    "base_sentences": 45,
+    "augmented": 496
+  }
+}
